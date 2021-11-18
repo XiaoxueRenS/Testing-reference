@@ -1,2 +1,2 @@
 # Testing-reference
-some reference about Testing
+Refer to Intro.excl for briefly introduction of these papers
