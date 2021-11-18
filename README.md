@@ -1,2 +1,2 @@
 # Testing-reference
-Refer to Intro.excl for briefly introduction of these papers
+Refer to intro.xlsx for briefly introduction of these papers
